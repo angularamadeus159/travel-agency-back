@@ -1,0 +1,10 @@
+com\onvacation\backend\config\CorsConfig.class
+com\onvacation\backend\dto\EmailRequestDTO.class
+com\onvacation\backend\dto\ReservationDTO.class
+com\onvacation\backend\OnVacationBackendApplication.class
+com\onvacation\backend\entity\Agency.class
+com\onvacation\backend\entity\Reservation.class
+com\onvacation\backend\dto\ResponseDTO.class
+com\onvacation\backend\repository\ReservationRepository.class
+com\onvacation\backend\config\CorsConfig$1.class
+com\onvacation\backend\repository\AgencyRepository.class

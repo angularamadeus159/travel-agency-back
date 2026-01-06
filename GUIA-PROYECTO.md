@@ -399,7 +399,7 @@ En la consola donde ejecutaste `mvn spring-boot:run`.
 ### Error: Connection refused to database
 
 **Solución:**
-1. Verifica las credenciales en `application.propertiess`
+1. Verifica las credenciales en `application.properties`
 2. Asegúrate de que Supabase esté accesible
 
 ### Error: Port 8080 already in use
